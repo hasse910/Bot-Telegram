@@ -1,7 +1,7 @@
 import telepot
 from Chatbot import Chatbot
 
-telegram = telepot.Bot("1204740512:AAHMY2lSMhEK-oY9_2-7PM18803olpLMpoE")
+telegram = telepot.Bot("*********")
 bot = Chatbot ("Hasse9Bot")
 
 def recebendoMsg(msg):
